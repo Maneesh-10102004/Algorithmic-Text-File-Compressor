@@ -18,21 +18,21 @@ This project implements a Huffman coding-based file compression and decompressio
 - Standard C++ library
 ### How to run this:
 #### Compilation
-- To compile the source code, run the following commands in your terminal:
-g++ -o compressor compressor.cpp
-g++ -o decompressor decompressor.cpp
+- To compile the source code, run the following commands in your terminal:<br/>
+g++ -o compressor compressor.cpp<br/>
+g++ -o decompressor decompressor.cpp<br/>
 
 #### Running the Compressor:
-- To compress a file, use the following command:
-./compressor <inputfile> <compressedfile>
+- To compress a file, use the following command:<br/>
+./compressor <inputfile> <compressedfile><br/>
 
-Eg: ./compressor input.txt compressed.bin
+Eg: ./compressor input.txt compressed.bin<br/>
 
 #### Running the Decompressor:
-To decompress a file, use the following command:
-.\decompressor.exe <compressedfile> <outputfile>
+To decompress a file, use the following command:<br/>
+.\decompressor.exe <compressedfile> <outputfile> <br/>
 
-- Eg: .\decompressor.exe compressed.bin output.txt
+- Eg: .\decompressor.exe compressed.bin output.txt <br/>
 
 ## Example files
 - input: Contains sample text data for compression.
