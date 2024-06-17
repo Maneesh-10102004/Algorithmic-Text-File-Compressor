@@ -24,13 +24,13 @@ g++ -o decompressor decompressor.cpp<br/>
 
 #### Running the Compressor:
 - To compress a file, use the following command:<br/>
-./compressor <inputfile> <compressedfile><br/>
+./compressor <inputfile> <compressedfile>
 
-Eg: ./compressor input.txt compressed.bin<br/>
+- Eg: ./compressor input.txt compressed.bin<br/>
 
 #### Running the Decompressor:
 To decompress a file, use the following command:<br/>
-.\decompressor.exe <compressedfile> <outputfile> <br/>
+.\decompressor.exe <compressedfile> <outputfile> 
 
 - Eg: .\decompressor.exe compressed.bin output.txt <br/>
 
