@@ -40,7 +40,7 @@ Eg: .\decompressor.exe compressed.bin output.txt
 - compressed: Contains compressed binary data.
 
 ## Screenshots
-- The screenshots- input properties, compressed properties and output properties have been provided for degree of compression that takes place.
+- The screenshots- input properties, compressed properties and output properties have been provided for presenting the degree of compression that takes place.
 ## Result
 - Around 45-50 % of compression is achieved even for text files as large as 180-190 MB without the loss of any data.
 Note: As '#' and '$' characters have been used as placeholders, the code works perfectly when these characters are not present in the input text file.
