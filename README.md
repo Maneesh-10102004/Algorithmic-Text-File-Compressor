@@ -32,7 +32,7 @@ Eg: ./compressor input.txt compressed.bin
 To decompress a file, use the following command:
 .\decompressor.exe <compressedfile> <outputfile>
 
-Eg: .\decompressor.exe compressed.bin output.txt
+- Eg: .\decompressor.exe compressed.bin output.txt
 
 ## Example files
 - input: Contains sample text data for compression.
@@ -43,6 +43,6 @@ Eg: .\decompressor.exe compressed.bin output.txt
 - The screenshots- input properties, compressed properties and output properties have been provided for presenting the degree of compression that takes place.
 ## Result
 - Around 45-50 % of compression is achieved even for text files as large as 180-190 MB without the loss of any data.
-Note: As '#' and '$' characters have been used as placeholders, the code works perfectly when these characters are not present in the input text file.
+- Note: As '#' and '$' characters have been used as placeholders, the code works perfectly when these characters are not present in the input text file.
 
   
